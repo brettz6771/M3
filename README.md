@@ -1,2 +1,2 @@
-# M3
-This is the Repository for the M3 Project
+# Web Design
+This is the Repository for ZenTek Web Design Projects
